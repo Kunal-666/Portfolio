@@ -11,5 +11,7 @@
     document.querySelector(".theme-btn").addEventListener("click", () => {
         document.body.classList.toggle("light-mode");
     })
-})();
+}
+)();
 
+/* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
